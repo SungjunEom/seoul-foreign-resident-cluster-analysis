@@ -29,7 +29,7 @@ This document presents a cluster analysis of Seoul's 25 administrative districts
   - Low foreign resident areas (e.g., Eunpyeong, Gangbuk): Stable, predominantly local populations.
   - Mixed demographics (e.g., Guro, Dongdaemun): Balance between Korean and foreign populations with thriving multicultural characteristics.
 - **Visualization**: Principal Component Analysis (PCA) confirmed clear separations among clusters, explaining 96.1% of data variance.
-![alt text](Figure_1.png)
+![alt text](images/Figure_1.png)
 
 | **Cluster** | **Districts**                                                                                     |
 |-------------|--------------------------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@ This document presents a cluster analysis of Seoul's 25 administrative districts
 | 4           | 노원구, 은평구, 양천구, 강서구, 강남구, 송파구, 강동구                                              |
 
 
-![alt text](Figure_2.png)
+![alt text](images/Figure_2.png)
 ## Applications
 - **Policy Recommendations**:
   - High foreign resident regions: Expand multicultural centers, language programs, and support networks.
