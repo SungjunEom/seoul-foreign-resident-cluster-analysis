@@ -63,3 +63,23 @@ This document presents a cluster analysis of Seoul's 25 administrative districts
 - Seoul Population Statistics: [Link](https://data.seoul.go.kr/dataList/419/S/2/datasetView.do)
 - [Huaxing Lin et al., Applied Energy, 2023]
 - [Jaejun Jung, Korean Journal of Geography, 2022]
+
+## BibTeX
+```
+@software{Eom2025Software,
+  author = {Sungjun Eom},
+  title = {A Cluster Analysis Study on Seoul’s Administrative Districts Focusing on Registered Foreign Residents},
+  year = {2025},
+  url = {https://github.com/SungjunEom/seoul-foreign-resident-cluster-analysis},
+  orcid = {0009-0001-8013-2454},
+  license = {MIT},
+}
+
+@article{Eom2025Article,
+  author = {Sungjun Eom},
+  title = {A Cluster Analysis Study on Seoul’s Administrative Districts Focusing on Registered Foreign Residents},
+  year = {2025},
+  url = {https://github.com/SungjunEom/seoul-foreign-resident-cluster-analysis},
+  note = {Paper version.}
+}
+```
