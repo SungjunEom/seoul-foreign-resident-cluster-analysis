@@ -82,4 +82,12 @@ This document presents a cluster analysis of Seoul's 25 administrative districts
   url = {https://github.com/SungjunEom/seoul-foreign-resident-cluster-analysis},
   note = {Paper version.}
 }
+
+@misc{Eom2025Github,
+  author       = {Sungjun Eom},
+  title        = {A Cluster Analysis Study on Seoul’s Administrative Districts Focusing on Registered Foreign Residents},
+  url = {https://github.com/SungjunEom/seoul-foreign-resident-cluster-analysis},
+  note         = {Accessed: 2025-01-14},
+  year         = {2025}
+}
 ```
